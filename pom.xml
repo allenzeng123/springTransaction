@@ -21,7 +21,7 @@
 
 	<dependencies>
 
-		<!-- junit -->
+		<!-- junit123 -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
