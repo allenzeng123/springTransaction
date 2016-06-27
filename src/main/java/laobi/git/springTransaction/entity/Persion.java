@@ -14,11 +14,11 @@ public class Persion {//60001---60003--604
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 5127853981202454040L;//605
+	private static final long serialVersionUID = 5127853981202454040L;//from5 501
 	private int id;
-	private String name;//from6 commit6
-	private Integer age;//from6 commit7
-	private String telephone;
+	private String name;
+	private Integer age;
+	private String telephone;//from5 501
 
 	public Persion() {
 		this.name = "adddaa";

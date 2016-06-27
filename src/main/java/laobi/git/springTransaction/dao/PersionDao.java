@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 import laobi.git.springTransaction.entity.Persion;
 
 @Repository
-public class PersionDao {
+public class PersionDao {//from5 501
 
 	@Autowired
 	private SessionFactory sessionFactory;
