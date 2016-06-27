@@ -9,7 +9,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "persion")
-public class Persion {//60001
+public class Persion {//60001---60003
 
 	/**
 	 * 
