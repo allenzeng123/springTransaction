@@ -14,7 +14,7 @@ public class Persion {//60001---60003--604
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 5127853981202454040L;
+	private static final long serialVersionUID = 5127853981202454040L;//605
 	private int id;
 	private String name;
 	private Integer age;
